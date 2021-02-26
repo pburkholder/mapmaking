@@ -1,8 +1,8 @@
-1 diner seating (various)
-2 diner tables (various)
-3 stools
+DONE 1 diner seating (various) 
+DONE 2 diner tables (various)
+DONE 3 stools
 4 diner-specific walls
-5 statues, multiple stands, multiple colors *
+DONE 5 statues, multiple stands, multiple colors *
 6 rugs
 7 bookshelves
 8 furniture
