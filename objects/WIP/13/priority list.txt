@@ -1,7 +1,7 @@
 DONE 1 diner seating (various) 
 DONE 2 diner tables (various)
 DONE 3 stools
-4 diner-specific walls
+DONE 4 diner-specific walls
 DONE 5 statues, multiple stands, multiple colors *
 6 rugs
 7 bookshelves
@@ -11,6 +11,10 @@ DONE 5 statues, multiple stands, multiple colors *
 - office decoration
 - st patties - march 17
 9 all remnants in OPW
+-succulents
+-sepia portraits 
+-napkins carousel 
+-pie
 
 
 ----
