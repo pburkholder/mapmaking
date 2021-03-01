@@ -2,7 +2,7 @@ DONE 1 diner seating (various)
 DONE 2 diner tables (various)
 DONE 3 stools
 DONE 4 diner-specific walls
-DONE 5 statues, multiple stands, multiple colors *
+5 statues, multiple stands, multiple colors *
 6 rugs
 7 bookshelves
 8 furniture
