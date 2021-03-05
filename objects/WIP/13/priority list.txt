@@ -1,5 +1,6 @@
-6 rugs
-7 bookshelves - BRIAN
+1. Assetize office objects sheets for splice and upload
+2. Draw extra Office “reach objects”. 
+3.
 8 furniture
 9 all remnants in OPW
 
@@ -8,8 +9,7 @@ TO QA / TO UPLOAD - st patties - march 17
 - office decoration
 - gather entry rug
 
--succulents
--sepia portraits 
+
 -napkins carousel 
 -pie
 
